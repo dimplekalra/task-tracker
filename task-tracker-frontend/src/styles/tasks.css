@@ -1,0 +1,22 @@
+.task-item {
+  border: 1px solid #ddd;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.task-item h4 {
+  margin: 0 0 6px;
+}
+
+.task-item.completed {
+  background-color: #e6fffa;
+}
+
+.task-actions {
+  margin-top: 8px;
+}
+
+.task-actions button {
+  margin-right: 8px;
+}
